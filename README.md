@@ -1,2 +1,3 @@
 # bit
-other repository
+
+Hi，humans!
